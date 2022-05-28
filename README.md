@@ -9,16 +9,16 @@
 </h1>
 
 <p align="center">
-![GitHub all releases](https://img.shields.io/github/downloads/Romainldinho/AnnecyLakeTemperature/total)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Romainldinho/AnnecyLakeTemperature)
+[GitHub all releases](https://img.shields.io/github/downloads/Romainldinho/AnnecyLakeTemperature/total)
+[GitHub commit activity](https://img.shields.io/github/commit-activity/y/Romainldinho/AnnecyLakeTemperature)
 </p>
 
 It's a small tool to help me to go swimming in the Annecy Lake 🏊‍♀️
 
 ## Goal 🥅
 
-Try a bice tools ![Laravel Zero](https://laravel-zero.com/) and ![termwind](https://github.com/nunomaduro/termwind)
-build by ![Nuno Maduro](https://github.com/nunomaduro)
+Try a bice tools [Laravel Zero](https://laravel-zero.com/) and [termwind](https://github.com/nunomaduro/termwind)
+build by [Nuno Maduro](https://github.com/nunomaduro)
 
 -
 
