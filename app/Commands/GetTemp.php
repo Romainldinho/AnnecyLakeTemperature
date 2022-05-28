@@ -51,7 +51,8 @@ class GetTemp extends Command
         $url = "http://annecy-meteo.com/temperature-du-lac/";
         $response = Http::get($url);
         $crawler = new Crawler($response->body());
-        $temp = $crawler->filter('div#sonde-eau .temperature');
-        return $temp->text();
+        $node = $crawler->filter('div#sonde-eau .temperature');
+        $temp = $node->text();
+        return filter_var($temp, FILTER_SANITIZE_NUMBER_FLOAT, FILTER_FLAG_ALLOW_FRACTION);
     }
 }
