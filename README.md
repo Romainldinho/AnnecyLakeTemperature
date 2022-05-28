@@ -9,9 +9,13 @@
 
 It's a small tool to help me to go swimming in the Annecy Lake 🏊‍♀️
 
-## Goal
+## Goal 🥅
 
 Try Laravel Zero and termwind
 
+## Play ⚽️
 
+```
+php annecylake temp 
+```
 
