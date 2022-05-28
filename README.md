@@ -8,10 +8,8 @@
     <br>
 </h1>
 
-<p align="center">
-[GitHub all releases](https://img.shields.io/github/downloads/Romainldinho/AnnecyLakeTemperature/total)
-[GitHub commit activity](https://img.shields.io/github/commit-activity/y/Romainldinho/AnnecyLakeTemperature)
-</p>
+![GitHub all releases](https://img.shields.io/github/downloads/Romainldinho/AnnecyLakeTemperature/total)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Romainldinho/AnnecyLakeTemperature)
 
 It's a small tool to help me to go swimming in the Annecy Lake 🏊‍♀️
 
