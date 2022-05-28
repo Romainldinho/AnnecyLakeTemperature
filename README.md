@@ -13,6 +13,11 @@
 
 It's a small tool to help me to go swimming in the Annecy Lake 🏊‍♀️
 
+<p align="center">
+    <img  height="200" src="https://github.com/Romainldinho/AnnecyLakeTemperature/blob/master/Screenshot%202022-05-29%20at%2001.34.57.png" />
+</p>
+
+
 ## Goal 🥅
 
 Try a nice tools 🛠 [Laravel Zero](https://laravel-zero.com/) and [Termwind](https://github.com/nunomaduro/termwind)
