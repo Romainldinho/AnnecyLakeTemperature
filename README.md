@@ -1,5 +1,5 @@
 <p align="center">
-    <img title="Annecy lake" height="100" src="https://www.peakretreats.co.uk/media/4531/annecy-talloires-1-opt.jpg" />
+    <img title="Annecy lake" height="300" src="https://www.peakretreats.co.uk/media/4531/annecy-talloires-1-opt.jpg" />
 </p>
 
 ### Annecy Lake Temperature 🌡
