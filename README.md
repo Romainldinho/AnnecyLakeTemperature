@@ -21,6 +21,7 @@ build by [Nuno Maduro](https://github.com/nunomaduro)
 ## Play ⚽️
 
 ```
+composer install
 php annecylake temp
 ```
 
