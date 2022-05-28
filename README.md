@@ -18,13 +18,20 @@ It's a small tool to help me to go swimming in the Annecy Lake 🏊‍♀️
 Try a bice tools [Laravel Zero](https://laravel-zero.com/) and [termwind](https://github.com/nunomaduro/termwind)
 build by [Nuno Maduro](https://github.com/nunomaduro)
 
--
+- [ ]
 
 ## Play ⚽️
 
 ```
 php annecylake temp
 ```
+
+## Libraries 📚
+
+- [Laravel Zero](https://laravel-zero.com/)
+- [termwind](https://github.com/nunomaduro/termwind)
+- [DomCrawler](https://github.com/symfony/dom-crawler)
+
 
 ## Credits 👨‍🦰
 
